@@ -17,3 +17,7 @@ Example of i:
     some_path_to_the_image/img1.jpg
     some_path_to_the_image/img2.jpg
     ...
+
+Note:
+  1. OpenCV is required to compile this code;
+  2. 10389231_Project_1.pdf is a report on this implementation. It covers the concept of joiners, an overview of the methods used, and experiemt results.

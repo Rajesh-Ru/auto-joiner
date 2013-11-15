@@ -1,0 +1,19 @@
+Lincense Issue:
+  Some of the images used for experiments are not authorized. No commercial use is allowed.
+
+How to Use the Program:
+  1. Compile the the source code and link anything needed to generate an executable;
+  In the subsequent section, suppose you are using the executable on Windows.
+  2. Fire up your terminal and direct to the directory where the executable resides;
+  3. Run the executable according to the following format
+	executable_name.exe n i [o]
+    where n is the number of images in i,
+          i is the name of a file containing the absolute paths and names of the images used for joining (each image occupies one line),
+          o is the optional output file name.
+
+Example of i:
+  File name: example.txt
+  Content:
+    some_path_to_the_image/img1.jpg
+    some_path_to_the_image/img2.jpg
+    ...
